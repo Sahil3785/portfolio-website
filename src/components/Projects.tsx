@@ -18,7 +18,7 @@ const Projects = () => {
       image: "/Images/project-1.jpg",
       tech: ["N8N", "Trigger.dev", "REST APIs", "Webhooks", "JavaScript", "TypeScript"],
       liveUrl: "",
-      githubUrl: ""
+      githubUrl: "https://github.com/Sahil3785/callyzer-supabase-sync"
     },
 
     {
@@ -27,8 +27,8 @@ const Projects = () => {
       description: "Built production-ready MVPs by integrating frontend interfaces with backend data sources and automation workflows. Implemented custom business logic and API-connected workflows to support real-world operational use cases.",
       image: "/Images/project-2.jpg",
       tech: ["Softr", "No-Code", "API Integration", "Workflow Automation"],
-      liveUrl: "",
-      githubUrl: ""
+      liveUrl: "https://crm-web-applications.vercel.app/",
+      githubUrl: "https://github.com/Sahil3785/crm-web-application"
     },
     {
       id: 3,
