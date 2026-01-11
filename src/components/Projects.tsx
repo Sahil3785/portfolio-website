@@ -15,7 +15,7 @@ const Projects = () => {
       id: 1,
       title: "Automations, N8N & Trigger.dev",
       description: "Designed and deployed API-driven automation pipelines integrating telephony systems, CRM platforms, and databases. Implemented webhook-based triggers, scheduled jobs, and conditional workflows to automate cross-system data flows. Built error handling, retry mechanisms, and monitoring logic to maintain reliable and scalable integrations.",
-      image: "/Images/project-1.jpg",
+      image: "/Images/n8n.png",
       tech: ["N8N", "Trigger.dev", "REST APIs", "Webhooks", "JavaScript", "TypeScript"],
       liveUrl: "",
       githubUrl: "https://github.com/Sahil3785/callyzer-supabase-sync"
@@ -34,7 +34,7 @@ const Projects = () => {
       id: 3,
       title: "Child Safety Alert App, Cybersecurity & Mobile Prototype",
       description: "Engineered a prototype application enabling users to capture and upload images of unattended children, integrating with a government-linked database to verify registered missing child complaints. Automated instant alerts to relevant police stations when a match is found, reducing response time by 30% and supporting faster child rescue operations.",
-      image: "/Images/project-3.jpg",
+      image: "/Images/CS.png",
       tech: ["React", "API Integration", "Database", "Mobile Development", "Cybersecurity"],
       liveUrl: "",
       githubUrl: ""
